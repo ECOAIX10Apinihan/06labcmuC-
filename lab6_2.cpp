@@ -31,6 +31,7 @@ void showResult(double resultoflength,double resultofanger){
     cout << "Length of the resultant vector = " << resultoflength << endl;
     cout << "Direction of the resultant vector (deg) = "<< resultofanger << endl;
     cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"<< endl;
+    
 }
 int main(){
     double l1,l2,a1,a2,xcomp,ycomp,result_vec_length,result_vec_direction;
